@@ -27,7 +27,7 @@ Due to the technological issue things are more challenging day by day. The more 
 Version is 1.0
 
 #History<br/>
-In this 21th century, we are living in information era, amassing data is facile and storing it less expensive. Day by day information is increasing in all sectors, but ability to understand and make use of that information does not growth. The school billing system project in c keeps record all the students, teachers and staffs working in the institution. The program is run by the administrator who can add, record, modify, if unnecessary then delete record and also find records according to the need. This basic feature of this project is that it shows fees that the students need to pay or dues and advance of the students. It also records the information related to salary that is to be provided to teachers and staffs working in the organizations.
+<h3>In this 21th century, we are living in information era, amassing data is facile and storing it less expensive. Day by day information is increasing in all sectors, but ability to understand and make use of that information does not growth. The school billing system project in c keeps record all the students, teachers and staffs working in the institution. The program is run by the administrator who can add, record, modify, if unnecessary then delete record and also find records according to the need. This basic feature of this project is that it shows fees that the students need to pay or dues and advance of the students. It also records the information related to salary that is to be provided to teachers and staffs working in the organizations.</h3>
 
 #Acknowledgement<br/>
 First and foremost, I am thankful to Almighty Allah for his blessings on me to contribute to the knowledge of world. I am particularly grateful to my supervisor and advisor, Dr. Md. Asraf Ali, for his expertise and advice, inspiring and challenging discussions, and endless patience that have supported me throughout this work. I would also like to thank our department head, Professor Dr. Touhid Bhuiyan, for his enthusiastic guidance and excellent suggestion. In particular, I would like to thank our all batch mates (22th Batch) in the Software Engineering Department for an inspiring and supporting collaborative atmosphere. I would also like to mention all other faculty members, lab assistant and other staffs at the Department of Software Engineering and all students of this department, thanks for providing an excellent environment to work in. Last but not the least; I would like to thank my family and friends for constantly reminding me of the most important things in life and for always supporting me in critical situation.<br/>
@@ -35,10 +35,10 @@ First and foremost, I am thankful to Almighty Allah for his blessings on me to c
 #Built with<br/>
 Bluit with C programming and The software name is Code-Blocks
 
-#References<br/>
-i.Programming contest Data structure & Algorithm by Md. Mahabubul Hassan.
-ii.Data structure with lab by Seymour Lipschutz.
-iii. Structure and File handling basic from (www.tutorialspoint.com).
+#References
+i.Programming contest Data structure & Algorithm by Md. Mahabubul Hassan.<br/>
+ii.Data structure with lab by Seymour Lipschutz.<br/>
+iii. Structure and File handling basic from (www.tutorialspoint.com).<br/>
 iv. Computer programming with Tamim Shahriar Shubin.
 
 
