@@ -19,8 +19,8 @@ iii. Show Salary etc.....
 
 #Contributing<br/>
 There are two Categories:
-i. Teacher & Staffs
-ii. Student
+i. Teacher & Staffs<br/>
+ii. Student<br/>
 Due to the technological issue things are more challenging day by day. The more you know, the more you learn. From this findings this project is made by. Basically school’s all details written by a paper mode. There is not much use to keep all details like computerize. For all data save this can be a good software or program whatever we say, this is very helpful.There can be add some features like Teacher & Staffs Absent days and Holidays details. There are many functions can be updated and I will keep in touch with this project and keep updating new features.In this project things is like mixed with the different question from different genre. But for the knowledge of every side a student or a person should have practiced all sectors means different types of subject. From the thinking of this, in future this project will come with some extra-ordinary features like, user part, because this time user can’t do anything. Next time user can be capable of show their details and other feature. And also come with more update version.<br/>
 
 #version<br/>
