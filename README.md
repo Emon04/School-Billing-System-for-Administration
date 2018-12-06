@@ -1,4 +1,4 @@
-#Project Title<br/>
+<h3>#Project Title</h3><br/>
 Project name: School Billing System for Administration
 
 #Installation Process<br/>
