@@ -1,5 +1,5 @@
 # Project Title
-Project name is School Billing System for Administration
+Project name: School Billing System for Administration
 
 #Installation Process
 Code Blocks downloaded from: http://www.codeblocks.org/downloads/26 .Then  run the download software and follw the instruction and accept the default option. Then verify the compilers and dibugger path.
