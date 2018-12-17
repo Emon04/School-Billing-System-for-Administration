@@ -6,16 +6,16 @@ Code Blocks downloaded from: http://www.codeblocks.org/downloads/26 .Then  run t
 
 <h2>#Usages Instruction</h2><br/>
 Basically, There are two types of user in the project. One is for Teacher & Staffs and other is for Student. This two types of users all details and other things to do, Administration must have login. Then they can add, delete, update and others things.
-First, in Student Account:
-i. Administration can show their records
-ii. They can update their record
-iii. Can delete record 
-iv. can set monthly fees and add finee for delay.
+First, in Student Account:<br/>
+i. Administration can show their records<br/>
+ii. They can update their record<br/>
+iii. Can delete record <br/>
+iv. can set monthly fees and add finee for delay.<br/>
 
-Second, in Teacher & Staffs Account:
-i. Can update, delete, add Teacher & Staffs Detail
-ii. Calculate their Salary
-iii. Show Salary etc.....
+Second, in Teacher & Staffs Account:<br/>
+i. Can update, delete, add Teacher & Staffs Detail<br/>
+ii. Calculate their Salary<br/>
+iii. Show Salary etc.....<br/>
 
 <h2>#Contributing</h2><br/>
 There are two Categories:<br/>
